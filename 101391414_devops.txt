@@ -2,3 +2,5 @@
 # In this course we learned how to integrated git bash and associate with git hub
 # Git hub is a developper tool used to upload your code/work from local repositories to git hub repositories
 # There are some tools used to better maintain, run and help manage scripts being worked with
+# I find this course really exciting and interesiting 
+# It takes me back to the day when I started learning html and css, it was entertaining and exciting
