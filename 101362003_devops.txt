@@ -1,1 +1,3 @@
 # The Devops lecture class is now online 
+# Labs have an option of going online 
+
