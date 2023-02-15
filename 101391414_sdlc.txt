@@ -5,3 +5,6 @@
 # Some Dev Ops Practices Includes
 # Continouse Intergration
 # Microservices
+# Infrastructure as Code
+# Monitoring and Logging 
+# Communication and Collaboraiton
