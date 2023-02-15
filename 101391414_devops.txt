@@ -1,0 +1,4 @@
+# COMP2156 
+# In this course we learned how to integrated git bash and associate with git hub
+# Git hub is a developper tool used to upload your code/work from local repositories to git hub repositories
+# There are some tools used to better maintain, run and help manage scripts being worked with
