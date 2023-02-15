@@ -1,2 +1,2 @@
 # A software developer must be familar with the Software Development Cycle for creating, testing and deploying code 
-
+# Tools like Git should be familar
