@@ -1,0 +1,10 @@
+# Why Dev Ops?
+# Since softwares becomes and integret part of busineses, this is a necessary when working with companies
+# Most companies use tools and services provided by dev ops engineers to better communicate or get in touch with their customers
+# Some Dev Ops Practices Includes
+# Some Dev Ops Practices Includes
+# Continouse Intergration
+# Microservices
+# Infrastructure as Code
+# Monitoring and Logging 
+# Communication and Collaboraiton
